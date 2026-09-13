@@ -63,12 +63,8 @@ Responsive landing page for an energy independence company with an interactive q
 
 `Next.js` · `React` · `TypeScript`
 
-  <a href="https://github.com/Rdazochka/EnerHome">
-    <img src="./assets/buttons/repository-button.png" width="190" alt="Repository">
-  </a>&nbsp;&nbsp;
-  <a href="https://ener-home.vercel.app">
-    <img src="./assets/buttons/live-demo-button.png" width="190" alt="Live Demo">
-  </a>
+[![Repository](./assets/buttons/repository-button.png)](https://github.com/Rdazochka/EnerHome)
+[![Live Demo](./assets/buttons/live-demo-button.png)](https://ener-home.vercel.app)
 
 
 ### 🟢 Node.js Backend
