@@ -155,104 +155,39 @@ responsive and user-friendly web applications.
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td colspan="2" align="center">
+### ⚡ EnerHome
 
-      <h3>⚡ EnerHome</h3>
+**Production-like Next.js landing page**
 
-      <p>
-        <strong>Production-like Next.js landing page</strong>
-      </p>
+Responsive landing page for an energy independence company with an interactive quiz, SEO optimization and structured data.
 
-      <p>
-        Responsive landing page for an energy independence company
-        with interactive quiz, SEO optimization and structured data.
-      </p>
+`Next.js` · `React` · `TypeScript`
 
-      <p>
-        <code>Next.js</code>
-        ·
-        <code>React</code>
-        ·
-        <code>TypeScript</code>
-      </p>
+[🌐 Live Demo](https://ener-home.vercel.app) · [📂 Repository](https://github.com/Rdazochka/EnerHome)
 
-      <p>
-        <a href="https://ener-home.vercel.app">
-          🌐 Live Demo
-        </a>
-        &nbsp;&nbsp;·&nbsp;&nbsp;
-        <a href="https://github.com/Rdazochka/EnerHome">
-          📂 Repository
-        </a>
-      </p>
+---
 
-    </td>
-  </tr>
+### 🟢 Node.js Backend
 
-  <tr>
-    <td width="50%" valign="top" align="center">
+**Backend development**
 
-      <h3>🟢 Node.js Backend</h3>
+Node.js project focused on Express, REST API architecture and backend development.
 
-      <p>
-        <strong>Backend development</strong>
-      </p>
+`Node.js` · `Express` · `JavaScript`
 
-      <p>
-        Node.js project focused on Express,
-        REST API architecture and backend development.
-      </p>
+[📂 Repository](https://github.com/Rdazochka/nodejs-hw)
 
-      <p>
-        <code>Node.js</code>
-        ·
-        <code>Express</code>
-        ·
-        <code>JavaScript</code>
-      </p>
+---
 
-      <p>
-        <a href="https://github.com/Rdazochka/nodejs-hw">
-          📂 Repository
-        </a>
-      </p>
+### 🧠 Math Trainer
 
-    </td>
+**Interactive math quiz application**
 
-    <td width="50%" valign="top" align="center">
+Timed quizzes, answer validation, score calculation and result tracking.
 
-      <h3>🧠 Math Trainer</h3>
+`React` · `TypeScript` · `Vite`
 
-      <p>
-        <strong>Interactive math quiz application</strong>
-      </p>
-
-      <p>
-        Timed quizzes, answer validation,
-        score calculation and result tracking.
-      </p>
-
-      <p>
-        <code>React</code>
-        ·
-        <code>TypeScript</code>
-        ·
-        <code>Vite</code>
-      </p>
-
-      <p>
-        <a href="https://github.com/Rdazochka/Math_Trainer">
-          📂 Repository
-        </a>
-      </p>
-
-    </td>
-  </tr>
-</table>
-
-<br />
+[📂 Repository](https://github.com/Rdazochka/Math_Trainer)
 
 <!-- ==================== GITHUB ==================== -->
 
