@@ -14,8 +14,6 @@
 
 <!-- ==================== INTRO ==================== -->
 
-<h1 align="center">Tetiana Kudriavtseva</h1>
-
 <h3 align="center">
   WEB DEVELOPER
 </h3>
