@@ -2,11 +2,13 @@
 
 <p align="center">
   <img
-    src="./assets/banner.gif"
+    src="./assets/tetiana_github_typing_CLEAN_FINAL.gif"
     width="100%"
     alt="Tetiana Kudriavtseva — Web Developer"
   />
 </p>
+
+<br />
 
 <br />
 
@@ -63,20 +65,19 @@ Responsive landing page for an energy independence company with an interactive q
 
 `Next.js` · `React` · `TypeScript`
 
-[![Repository](./assets/buttons/repository_button.png)](https://github.com/Rdazochka/EnerHome)
-[![Live Demo](./assets/buttons/live_demo_button.png)](https://ener-home.vercel.app)
+<a href="https://github.com/Rdazochka/EnerHome"><img src="./assets/buttons/repository_button.png" alt="Repository" width="170"></a>&nbsp;&nbsp;
+<a href="https://ener-home.vercel.app"><img src="./assets/buttons/live_demo_button.png" alt="Live Demo" width="170"></a>
 
+### 🐾 Home Friends
 
-### 🟢 Node.js Backend
+**Team Front-End project**
 
-**Backend development**
+Responsive web application for finding and adopting pets, developed as a team project. I contributed to the development of one of the main website sections.
 
-Node.js project focused on Express, REST API architecture and backend development.
+`JavaScript` · `HTML5` · `CSS3` · `Vite` · `Axios`
 
-`Node.js` · `Express` · `JavaScript`
-
-[📂 Repository](https://github.com/Rdazochka/nodejs-hw)
-
+<a href="https://github.com/alsydoruk642-hash/project-Home_Friends"><img src="./assets/buttons/repository_button.png" alt="Repository" width="170"></a>&nbsp;&nbsp;
+<a href="https://alsydoruk642-hash.github.io/project-Home_Friends/"><img src="./assets/buttons/live_demo_button.png" alt="Live Demo" width="170"></a>
 ---
 
 ### 🧠 Math Trainer
@@ -87,71 +88,47 @@ Timed quizzes, answer validation, score calculation and result tracking.
 
 `React` · `TypeScript` · `Vite`
 
-[📂 Repository](https://github.com/Rdazochka/Math_Trainer)
+<a href="https://github.com/Rdazochka/Math_Trainer"><img src="./assets/buttons/repository_button.png" alt="Repository" width="170"></a>&nbsp;&nbsp;
+<a href="https://math-trainer-five-rho.vercel.app/"><img src="./assets/buttons/live_demo_button.png" alt="Live Demo" width="170"></a>
 
 <!-- ==================== GITHUB ==================== -->
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Rdazochka&show_icons=true&hide_border=true&theme=transparent"
-    height="165"
-    alt="GitHub Stats"
-  />
-  &nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdazochka&layout=compact&hide_border=true&theme=transparent"
-    height="165"
-    alt="Top Languages"
-  />
-</p>
+<div align="center">
 
-<p align="center">
+<img src="https://img.shields.io/github/followers/Rdazochka?label=Followers&style=for-the-badge&color=242424&logo=github&logoColor=white" alt="followers" />
+
+<img src="https://img.shields.io/badge/Building-Real--World%20Projects-5C4635?style=for-the-badge&labelColor=242424" alt="building" />
+
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-795D43?style=for-the-badge&labelColor=242424" alt="focus" />
+
+<img src="https://img.shields.io/badge/Status-Keep%20Building-A98252?style=for-the-badge&labelColor=242424" alt="status" />
+
+<br/><br/>
+
+<a href="https://git.io/streak-stats">
   <img
-    src="https://streak-stats.demolab.com?user=Rdazochka&theme=transparent&hide_border=true"
-    width="60%"
+    src="https://streak-stats.demolab.com?user=Rdazochka&theme=transparent&hide_border=true&background=FFFFFF00&ring=A98252&fire=795D43&currStreakNum=5C4635&sideNums=5C4635&currStreakLabel=795D43&sideLabels=795D43&dates=9A8A7A&stroke=D8C8B8"
     alt="GitHub Streak"
   />
-</p>
+</a>
 
-<br />
-
+</div>
 <!-- ==================== CONNECT ==================== -->
 
 ## 📫 Let's Connect
 
-<p align="center">
-
-  <a href="YOUR_LINKEDIN_URL">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/tetiana-kudriavtseva/?locale=uk"><img src="https://img.shields.io/badge/LinkedIn-Connect-6B4F3A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   &nbsp;
-
-  <a href="YOUR_TELEGRAM_URL">
-    <img
-      src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
-      alt="Telegram"
-    />
-  </a>
-
+  <a href="https://t.me/Rdazochka"><img src="https://img.shields.io/badge/Telegram-Contact-6B4F3A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   &nbsp;
-
-  <a href="mailto:YOUR_EMAIL">
-    <img
-      src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-
-</p>
+  <a href="mailto:t.kudriavtseva.t@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6B4F3A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</div>
 
 <br />
 
 <p align="center">
-  <i>Turning ideas into real projects.</i> ✨
+  <i>Building. Learning. Growing.</i> ✨
 </p>
